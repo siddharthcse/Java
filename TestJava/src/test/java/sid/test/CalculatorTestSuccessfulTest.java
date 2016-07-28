@@ -9,7 +9,7 @@ import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
 
-public class CalculatorTestSuccessful {
+public class CalculatorTestSuccessfulTest {
 	private static ICalculator calculator;
 
 	@BeforeClass
