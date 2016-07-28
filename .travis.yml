@@ -1,5 +1,4 @@
 language: java
 sudo: required
-script: -mvn clean verify
-        -mvn test
+script: mvn test
 
